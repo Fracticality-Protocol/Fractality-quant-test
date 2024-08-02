@@ -20,6 +20,7 @@ Implement Any one of the simple strategy below using python or other languages y
 * similar as strage 1 /2 , only if you prefer mean-reversion rather than momentum
 
 
+# Timeline and Results:
 Time allowed: 7 days. 
 Action: choose any Strategy you like and code it out. 
 Results to submit: code + a simple report 
