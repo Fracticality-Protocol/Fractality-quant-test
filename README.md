@@ -21,6 +21,6 @@ Implement Any one of the simple strategy below using python or other languages y
 
 
 # Timeline and Results:
-Time allowed: 7 days. 
-Action: choose any Strategy you like and code it out. 
-Results to submit: code + a simple report 
+* Time allowed: 7 days. 
+* Action: choose any Strategy you like and code it out. 
+* Results to submit: code + a simple report 
