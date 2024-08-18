@@ -1,6 +1,10 @@
 # Fractality-quant-test
 
-Implement any one of the simple strategy below using python or other languages you prefer: 
+# Purpose: 
+* Note that this is NOT a test of coding skills. It is a test of whether you can find meaningful insights in the market gives us an edge.
+* If you already have an idea on how to achieve this, you can based on it and do a simple backtest.
+* If you do not any your own idea, then you can pick up just one algorithm below and test to find insights (it can be a specific value of a paramter than can increase the success rate, the expected return, or a method for detecting a pair better than common online material, or any other things).
+* After you done the coding, please provide simple comments on it assumptions or when/where will it work/or not.
 
 # strategy 1: Momentum based long only
 * Token candidates: with top 50 Market Cap, remove the stable coin, and filtered by token with top 30 trading volume. (such data can be easily get using coingecko or other public sources).
